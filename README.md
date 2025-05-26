@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhekshya</h1>
-- 🌱 I’m currently pursuing **a career in computer engineering.**
+- 🌱 I’m currently pursuing a career in computer engineering.
 
 - 👀 I’m interested in **dance and drawing.**
 
